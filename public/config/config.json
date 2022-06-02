@@ -1,10 +1,10 @@
 {
   "CONTRACT_ADDRESS": "0xb421818a9710132b012fe8589802e3248a000a8a",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb421818a9710132b012fe8589802e3248a000a8a",
+  "SCAN_LINK": "https://etherscan.io/address/0xb421818a9710132b012fe8589802e3248a000a8a",
   "NETWORK": {
     "NAME": "ETH",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "luxurytownwtf",
   "SYMBOL": "LXTB",
