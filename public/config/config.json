@@ -10,7 +10,7 @@
   "SYMBOL": "BTNA",
   "MAX_SUPPLY": 6969,
   "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "DISPLAY_COST": 0.002,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "FreemintNow",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-nft",
