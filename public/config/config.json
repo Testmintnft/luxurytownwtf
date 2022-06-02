@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x7248394e2a2e68034020fb6292d677b0f50a21bf",
-  "SCAN_LINK": "https://etherscan.io/address/0x7248394e2a2e68034020fb6292d677b0f50a21bf",
+  "CONTRACT_ADDRESS": "0xb421818a9710132b012fe8589802e3248a000a8a",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb421818a9710132b012fe8589802e3248a000a8a",
   "NETWORK": {
     "NAME": "ETH",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "BuyThisNFTorApellDoit",
-  "SYMBOL": "BTNA",
-  "MAX_SUPPLY": 6969,
+  "NFT_NAME": "luxurytownwtf",
+  "SYMBOL": "LXTB",
+  "MAX_SUPPLY": 5000,
   "WEI_COST": 0,
-  "DISPLAY_COST": 0.002,
+  "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "FreemintNow",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-nft",
