@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x749e93d0050764c056884ce75cc3075476eee751",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x749e93d0050764c056884ce75cc3075476eee751",
+  "CONTRACT_ADDRESS": "0x7248394e2a2e68034020fb6292d677b0f50a21bf",
+  "SCAN_LINK": "https://etherscan.io/address/0x7248394e2a2e68034020fb6292d677b0f50a21bf",
   "NETWORK": {
     "NAME": "ETH",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "BuyThisNFTorApellDoit",
   "SYMBOL": "BTNA",
