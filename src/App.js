@@ -299,7 +299,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
                   2000  free mints.
-                  Other 0.005 eth.
+                  MAx 10 per transaction.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
