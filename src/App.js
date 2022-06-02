@@ -298,8 +298,8 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  1500  free mints.
-                  Other 0.002 eth.
+                  2000  free mints.
+                  Other 0.005 eth.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
